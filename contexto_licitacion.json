@@ -14,8 +14,13 @@
     "score": 96,
     "veredicto": "IR_SOLOS",
     "veredicto_label": "🟢 IR SOLOS (100% CAPACIDAD PROPIA P&S)",
-    "puntos_fuertes": "• 5 contratos afines ($360k): Pindal ($78.4k), Chaguarpamba ($68.2k), Paquisha ($53.5k), Macará ($41.5k).\n• Dirección técnica: José Vicente Ordóñez cumple 4to nivel y dirección demostrada.",
-    "puntos_debiles": "• Confirmar disponibilidad en campo de especialista ambiental asignado."
+    "puntos_fuertes": [
+      "Experiencia previa comprobada en actualización integral de planes de ordenamiento territorial (PDOT/PUGS) en múltiples cantones.",
+      "Equipo directivo calificado: Dirección técnica con cuarto nivel en ordenamiento territorial y experiencia demostrada."
+    ],
+    "puntos_debiles": [
+      "Confirmar disponibilidad y cronograma de especialistas asignados al trabajo de campo."
+    ]
   },
   "empresa": {
     "nombre": "Planning & Solution S.A.",
