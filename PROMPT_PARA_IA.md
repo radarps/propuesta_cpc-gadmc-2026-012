@@ -66,10 +66,11 @@ Una vez que generes todos los entregables de la propuesta:
    git commit -m "feat(propuesta): oferta tecnica y economica oficial para CPC-GADMC-2026-012"
    git push origin main
    ```
-4. Notifica automáticamente al equipo en Telegram ejecutando:
+4. Notifica automáticamente al equipo en Telegram respondiendo al mensaje original ejecutando:
    ```bash
    curl -s -X POST "https://api.telegram.org/bot8931241873:AAEB06CAgHwVdq4pLLB2SfTg2AH_Zh4qAVc/sendMessage" \
      -d "chat_id=-1004416837038" \
+     -d "reply_to_message_id=21" \
      -d "parse_mode=HTML" \
      -d "text=✅ <b>PROPUESTA TÉCNICA COMPLETADA Y SUBIDA A GITHUB</b>%0A%0A📌 <b>Proceso:</b> CPC-GADMC-2026-012%0A🏢 <b>Entidad:</b> Gobierno Autónomo Descentralizado Municipal de Catamayo%0A🔗 <b>Repositorio:</b> https://github.com/radarps/propuesta_cpc-gadmc-2026-012%0A%0A<i>La propuesta ha sido completada formalmente y subida al repositorio por el equipo técnico.</i>"
    ```
