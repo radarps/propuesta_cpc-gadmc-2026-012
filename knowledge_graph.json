@@ -1,0 +1,2416 @@
+{
+  "metadata": {
+    "title": "Knowledge Graph: Planning & Solution S.A. & Professional Profile",
+    "version": "2.0.0",
+    "updated_at": "2026-09-04T17:17:10.284094",
+    "author": "Antigravity Graphify Engine",
+    "total_nodes": 101,
+    "total_edges": 166,
+    "categories": [
+      "Certification",
+      "Client",
+      "Company",
+      "Degree",
+      "Document",
+      "DomainArea",
+      "Institution",
+      "Person",
+      "Project",
+      "Skill"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "comp_planning_solutions",
+      "label": "Planning & Solution S.A.",
+      "category": "Company",
+      "properties": {
+        "legal_name": "Planning & Solution S.A.",
+        "commercial_name": "PLANNING & SOLUTIONS",
+        "ruc": "1191786099001",
+        "state": "Activo",
+        "regime": "General",
+        "foundation_date": "2019-06-27",
+        "headquarters": "Loja, Ecuador",
+        "jurisdiction": "Zona 7 (Loja, El Oro, Zamora Chinchipe)",
+        "phone": "+593 996146469",
+        "email": "planningsolution2021@gmail.com",
+        "rup_status": "Habilitado en SERCOP",
+        "total_contracted_experience_usd": 360353.86,
+        "focus_areas": [
+          "Ordenamiento Territorial y Urbano (PDOT, PUGS)",
+          "Análisis Económico, Fiscal y Modelización Econométrica",
+          "Gestión de Riesgos, Cambio Climático e I+D+i",
+          "Planes de Negocios y Sostenibilidad Financiera",
+          "Proyectos Internacionales (Unión Europea Horizonte Europa, BID, CAF)",
+          "Patrimonio Cultural y Fideicomisos Sociales"
+        ]
+      }
+    },
+    {
+      "id": "person_jose_vicente_ordonez",
+      "label": "José Vicente Ordóñez Yaguache",
+      "category": "Person",
+      "properties": {
+        "full_name": "José Vicente Ordóñez Yaguache",
+        "cedula": "1103697023",
+        "primary_role": "Gerente General / Consultor Líder",
+        "academic_title": "Economista / PhD (c) / Magíster en Ordenamiento Territorial / Magíster en Comunicación y Marketing Político",
+        "profile_summary": "Doctorando en Gestión Sustentable de la Tierra y el Territorio (Univ. Santiago de Compostela, España). Economista y doble magíster. Ex-Subsecretario Zonal y Director de Planificación de SENPLADES, ex-Intendente Zonal de la SOT, ex-Director Ejecutivo del Plan Binacional, ex-Coordinador Regional AME 7 y Coordinador Zonal MIES. Director de la Maestría en Economía y Dirección de Empresas UNL. Investigador con publicaciones CEPAL/ILPES y Google Scholar.",
+        "email": "planningsolution2021@gmail.com / jose.ordonez@unl.edu.ec",
+        "phone": "0996146469",
+        "years_of_experience": 18,
+        "languages": [
+          "Español (Nativo)",
+          "Inglés (Técnico/Profesional)"
+        ],
+        "google_scholar": "https://scholar.google.com/citations?user=KS0CWfsAAAAJ"
+      }
+    },
+    {
+      "id": "person_kevin_jimenez",
+      "label": "Kevin Marlow Jiménez Villavicencio",
+      "category": "Person",
+      "properties": {
+        "full_name": "Kevin Marlow Jiménez Villavicencio",
+        "cedula": "1103502462",
+        "primary_role": "Presidente / Experto en Proyectos, Data Analytics y Políticas Públicas",
+        "academic_title": "Economista / Magíster en Dirección Estratégica",
+        "profile_summary": "Estructurador de proyectos y política pública macroeconómica y fiscal. Punto Nacional de Contacto (NCP) de la Delegación de la Unión Europea para el Programa Horizonte Europa (€95.000 millones). Evaluador Internacional de proyectos I+D+i acreditado por EQA Madrid (códigos UNESCO 4 y 6 dígitos). Ex Asesor del Ministro de Economía y Finanzas del Ecuador, representante ante CONAFIPS e interlocutor con CAF y BID. Ex Gerente Zonal Sur del Banco de Desarrollo del Ecuador (BDE, coordinó créditos por más de USD 120 millones). Ex Director Zonal de Inversión Pública en SENPLADES.",
+        "email": "kmjimenezv@gmail.com",
+        "phone": "+593 987270332",
+        "years_of_experience": 16,
+        "languages": [
+          "Español (Nativo)",
+          "Inglés (Profesional)"
+        ]
+      }
+    },
+    {
+      "id": "person_diego_castro",
+      "label": "Diego Felipe Castro Costa",
+      "category": "Person",
+      "properties": {
+        "primary_role": "Arquitecto / Especialista Urbano Senior",
+        "education": "Arquitecto (Univ. Cuenca, 1988), Especialista en Rehabilitación Urbana y Arquitectónica (Univ. Central / Univ. Libre de Bruselas - Bélgica)",
+        "years_of_experience": 30,
+        "specialty": "Planificación urbana, patrimonio y rehabilitación arquitectónica"
+      }
+    },
+    {
+      "id": "person_diego_sanchez",
+      "label": "Diego Sánchez Ruiz",
+      "category": "Person",
+      "properties": {
+        "role": "Especialista Técnico / Planificador"
+      }
+    },
+    {
+      "id": "person_luis_eguiguren",
+      "label": "Luis Enrique Eguiguren",
+      "category": "Person",
+      "properties": {
+        "role": "Especialista Ambiental / Recursos Naturales"
+      }
+    },
+    {
+      "id": "person_maria_dominguez",
+      "label": "María Cristina Domínguez",
+      "category": "Person",
+      "properties": {
+        "role": "Especialista Social y Género"
+      }
+    },
+    {
+      "id": "person_santiago_saavedra",
+      "label": "Santiago Fernando Saavedra",
+      "category": "Person",
+      "properties": {
+        "role": "Especialista en Cartografía y Sistemas SIG"
+      }
+    },
+    {
+      "id": "person_sofia_lopez",
+      "label": "Sofía López Mora",
+      "category": "Person",
+      "properties": {
+        "role": "Especialista Económica y Financiera"
+      }
+    },
+    {
+      "id": "person_ernesto_pena",
+      "label": "Ernesto Peña Yaguache",
+      "category": "Person",
+      "properties": {
+        "role": "Especialista Legal y Normativo"
+      }
+    },
+    {
+      "id": "person_dany_salinas",
+      "label": "Dany Leonardo Salinas Enríquez",
+      "category": "Person",
+      "properties": {
+        "role": "Socio y Especialista en Gestión"
+      }
+    },
+    {
+      "id": "deg_phd_c_santiago",
+      "label": "PhD (c) en Gestión Sustentable de la Tierra y el Territorio",
+      "category": "Degree",
+      "properties": {
+        "institution": "Universidad Santiago de Compostela (España)",
+        "level": "Doctorado (En curso / Suficiencia)",
+        "field": "Gestión territorial, sostenibilidad de suelo y desarrollo regional"
+      }
+    },
+    {
+      "id": "deg_master_gestion_tierra",
+      "label": "Máster en Gestión Sustentable de la Tierra y el Territorio",
+      "category": "Degree",
+      "properties": {
+        "institution": "Universidad Santiago de Compostela (España)",
+        "level": "Posgrado / Cuarto Nivel (Senescyt 724356557)",
+        "field": "Ordenación territorial, SIG ambiental y manejo de suelo"
+      }
+    },
+    {
+      "id": "deg_master_com_pol",
+      "label": "Máster Universitario en Comunicación y Marketing Político",
+      "category": "Degree",
+      "properties": {
+        "institution": "Universidad Internacional de La Rioja - UNIR (España)",
+        "level": "Posgrado / Cuarto Nivel (Senescyt 7241219211)",
+        "field": "Opinión pública, gobernanza, campañas estratégicas"
+      }
+    },
+    {
+      "id": "deg_diploma_mercadeo",
+      "label": "Diploma Superior de Cuarto Nivel en Gerencia Estratégica de Mercadeo",
+      "category": "Degree",
+      "properties": {
+        "institution": "Universidad Técnica Particular de Loja (UTPL)",
+        "level": "Especialización de Posgrado (Senescyt 1031-05-642786)",
+        "field": "Dirección estratégica de mercadeo"
+      }
+    },
+    {
+      "id": "deg_economista_utpl",
+      "label": "Economista",
+      "category": "Degree",
+      "properties": {
+        "institution": "Universidad Técnica Particular de Loja (UTPL)",
+        "level": "Tercer Nivel (Senescyt 1031-06-695465)",
+        "field": "Ciencias Económicas, Macroeconomía y Planificación"
+      }
+    },
+    {
+      "id": "deg_magister_kevin",
+      "label": "Magíster en Dirección Estratégica y Gestión",
+      "category": "Degree",
+      "properties": {
+        "institution": "Universidad de Postgrado",
+        "level": "Posgrado / Cuarto Nivel",
+        "field": "Dirección estratégica, evaluación fiscal e I+D+i"
+      }
+    },
+    {
+      "id": "deg_economista_kevin",
+      "label": "Economista",
+      "category": "Degree",
+      "properties": {
+        "institution": "Universidad Nacional / Acreditada",
+        "level": "Tercer Nivel",
+        "field": "Economía pública, formulación de proyectos, econometría"
+      }
+    },
+    {
+      "id": "cert_kuleuven_open_science",
+      "label": "Ciencia Abierta: Python, Git Bash y Linux",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "KU Leuven (Leuven, Bélgica)",
+        "total_hours": 80,
+        "completion_date": "2025-07",
+        "scope": "Ciencia de datos abierta, entornos Linux, Git Bash y scripting Python avanzado"
+      }
+    },
+    {
+      "id": "cert_r_capacitador_unl",
+      "label": "Capacitador: Análisis de Datos con R para Ciencias Sociales",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "Carrera de Economía UNL",
+        "total_hours": 20,
+        "completion_date": "2025-02",
+        "scope": "Estadística inferencial aplicada, modelización con R"
+      }
+    },
+    {
+      "id": "cert_ibm_r_datascience",
+      "label": "R for Data Science",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "Cognitive Class / IBM Developer Skills Network",
+        "total_hours": 200,
+        "completion_date": "2024-10",
+        "scope": "Modelización Estadística en R, Data Science y Machine Learning"
+      }
+    },
+    {
+      "id": "cert_idb_cartography",
+      "label": "Cartography and Statistical Geography",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "Inter-American Development Bank (BID / IDB)",
+        "total_hours": 40,
+        "completion_date": "2024-10",
+        "scope": "Sistemas de Información Geográfica, Cartografía y Geografía Estadística"
+      }
+    },
+    {
+      "id": "cert_oas_opengov",
+      "label": "Municipal Open Government",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "Organización de los Estados Americanos (OAS / OEA)",
+        "total_hours": 120,
+        "completion_date": "2024-07",
+        "scope": "Gobierno Abierto Municipal, Transparencia, Datos Abiertos y Rendición de Cuentas"
+      }
+    },
+    {
+      "id": "cert_miami_leadership",
+      "label": "Continuing Education Certificate in Leadership",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "City University Miami (Miami, FL)",
+        "total_hours": 45,
+        "completion_date": "2022-04",
+        "scope": "Liderazgo Estratégico y Alta Dirección"
+      }
+    },
+    {
+      "id": "cert_cepal_ilpes_prospectiva",
+      "label": "Prospectiva para el Desarrollo",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "ILPES / CEPAL Naciones Unidas",
+        "total_hours": 192,
+        "completion_date": "2015-04",
+        "scope": "Planificación prospectiva, construcción de escenarios 2030 (Presencial 72h + Virtual 120h)"
+      }
+    },
+    {
+      "id": "cert_stata_cuenca",
+      "label": "Manejo del Software Estadístico STATA",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "Universidad de Cuenca",
+        "total_hours": 16,
+        "completion_date": "2015-11",
+        "scope": "Tratamiento de microdatos econométricos y modelos empíricos"
+      }
+    },
+    {
+      "id": "cert_clirsen_sig",
+      "label": "SIG y Sensores Remotos",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "CLIRSEN",
+        "total_hours": 32,
+        "completion_date": "2012-08",
+        "scope": "Teledetección, sensores remotos y cartografía satelital"
+      }
+    },
+    {
+      "id": "cert_arcgis_usc_espana",
+      "label": "Sistemas de Información Geográfica ArcGIS 9.3",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "Universidad Santiago de Compostela (Lugo, España)",
+        "total_hours": 40,
+        "completion_date": "2010-12",
+        "scope": "Laboratorio de Información Territorial (SIT), análisis geoespacial europeo"
+      }
+    },
+    {
+      "id": "cert_climate_portugal",
+      "label": "Climate Change Adaptation in Baixo Vouga Lagunar",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "Univ. Aveiro (Portugal) / Univ. Holanda / España / Bulgaria",
+        "total_hours": 60,
+        "completion_date": "2011-03",
+        "scope": "Adaptación al cambio climático en zonas costeras e inundables"
+      }
+    },
+    {
+      "id": "cert_ncp_horizon_europe",
+      "label": "Nombramiento Punto Nacional de Contacto (NCP) Programa Horizonte Europa",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "Delegación de la Unión Europea en Ecuador",
+        "total_hours": 0,
+        "completion_date": "2023-12",
+        "scope": "Representación oficial para el programa de innovación e investigación de la UE dotado con €95.000 millones"
+      }
+    },
+    {
+      "id": "cert_eqa_madrid_idi",
+      "label": "Experto Evaluador de Proyectos de I+D+i (4 y 6 Dígitos UNESCO)",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "EQA Certificados I+D+i (Madrid, España)",
+        "total_hours": 0,
+        "completion_date": "2024-04",
+        "scope": "Calificación técnica y certificación de proyectos de innovación científica y tecnológica bajo estándar UNESCO"
+      }
+    },
+    {
+      "id": "cert_reconocimiento_minfinanzas",
+      "label": "Reconocimiento por Gestión de Política Fiscal y Créditos",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "Exministro de Economía y Finanzas del Ecuador",
+        "total_hours": 0,
+        "completion_date": "2025-08",
+        "scope": "Reconocimiento por optimización fiscal, reducción de subsidios, representación en CONAFIPS y articulación con CAF y BID"
+      }
+    },
+    {
+      "id": "cert_bde_creditos_territoriales",
+      "label": "Gestión de Cartera Crediticia Zonal de USD 120 Millones",
+      "category": "Certification",
+      "properties": {
+        "issuing_organization": "Banco de Desarrollo del Ecuador (BDE)",
+        "total_hours": 0,
+        "completion_date": "2021-05",
+        "scope": "Coordinación y evaluación técnica de proyectos de infraestructura y financiamiento a gobiernos locales del sur"
+      }
+    },
+    {
+      "id": "inst_unl_maestria",
+      "label": "Maestría en Economía y Dirección de Empresas - UNL",
+      "category": "Institution",
+      "properties": {
+        "type": "Universidad Nacional de Loja"
+      }
+    },
+    {
+      "id": "inst_unl_profesor_titular",
+      "label": "Universidad Nacional de Loja (UNL)",
+      "category": "Institution",
+      "properties": {
+        "type": "Universidad Pública"
+      }
+    },
+    {
+      "id": "inst_ame",
+      "label": "Asociación de Municipalidades del Ecuador (AME 7)",
+      "category": "Institution",
+      "properties": {
+        "type": "Gremio de Gobiernos Locales"
+      }
+    },
+    {
+      "id": "inst_mies",
+      "label": "Ministerio de Inclusión Económica y Social (MIES)",
+      "category": "Institution",
+      "properties": {
+        "type": "Ministerio de Estado"
+      }
+    },
+    {
+      "id": "inst_ecu911",
+      "label": "ECU 911 Loja-Zamora",
+      "category": "Institution",
+      "properties": {
+        "type": "Servicio Integrado de Seguridad"
+      }
+    },
+    {
+      "id": "inst_sot",
+      "label": "Superintendencia de Ordenamiento Territorial (SOT)",
+      "category": "Institution",
+      "properties": {
+        "type": "Control Territorial Nacional"
+      }
+    },
+    {
+      "id": "inst_unl_dir_economia",
+      "label": "Carrera de Economía - UNL",
+      "category": "Institution",
+      "properties": {
+        "type": "Universidad Pública"
+      }
+    },
+    {
+      "id": "inst_senplades_subsecretario",
+      "label": "SENPLADES Zona 7",
+      "category": "Institution",
+      "properties": {
+        "type": "Secretaría Nacional de Planificación"
+      }
+    },
+    {
+      "id": "inst_senplades_dir_planif",
+      "label": "Dirección de Planificación SENPLADES Zona 7",
+      "category": "Institution",
+      "properties": {
+        "type": "Secretaría Nacional de Planificación"
+      }
+    },
+    {
+      "id": "inst_plan_binacional_dir",
+      "label": "Plan Binacional Ecuador-Perú",
+      "category": "Institution",
+      "properties": {
+        "type": "Organismo Internacional Fronterizo"
+      }
+    },
+    {
+      "id": "inst_plan_binacional_consultor",
+      "label": "Plan Binacional Ecuador-Perú",
+      "category": "Institution",
+      "properties": {
+        "type": "Organismo Internacional Fronterizo"
+      }
+    },
+    {
+      "id": "inst_ue_horizonte_europa",
+      "label": "Delegación de la Unión Europea en Ecuador",
+      "category": "Institution",
+      "properties": {
+        "type": "Organismo Internacional Multilateral"
+      }
+    },
+    {
+      "id": "inst_eqa_madrid",
+      "label": "EQA Certificados I+D+i (Madrid, España)",
+      "category": "Institution",
+      "properties": {
+        "type": "Entidad de Certificación Internacional"
+      }
+    },
+    {
+      "id": "inst_min_finanzas",
+      "label": "Ministerio de Economía y Finanzas del Ecuador",
+      "category": "Institution",
+      "properties": {
+        "type": "Ministerio de Estado Macrofiscal"
+      }
+    },
+    {
+      "id": "inst_bde",
+      "label": "Banco de Desarrollo del Ecuador (BDE)",
+      "category": "Institution",
+      "properties": {
+        "type": "Banca Pública de Desarrollo"
+      }
+    },
+    {
+      "id": "inst_senplades_inversion",
+      "label": "SENPLADES Subsecretaría Zonal 7",
+      "category": "Institution",
+      "properties": {
+        "type": "Secretaría Nacional de Planificación"
+      }
+    },
+    {
+      "id": "inst_unl_docente_kj",
+      "label": "Universidad Nacional de Loja (Posgrado y Pregrado)",
+      "category": "Institution",
+      "properties": {
+        "type": "Universidad Pública"
+      }
+    },
+    {
+      "id": "client_gad_paquisha",
+      "label": "GAD Municipal de Paquisha",
+      "category": "Client",
+      "properties": {
+        "type": "Gobierno Local Cantonal",
+        "province": "Zamora Chinchipe"
+      }
+    },
+    {
+      "id": "client_gad_pindal",
+      "label": "GAD Municipal del Cantón Pindal",
+      "category": "Client",
+      "properties": {
+        "type": "Gobierno Local Cantonal",
+        "province": "Loja"
+      }
+    },
+    {
+      "id": "client_gad_chaguarpamba",
+      "label": "GAD Municipal de Chaguarpamba",
+      "category": "Client",
+      "properties": {
+        "type": "Gobierno Local Cantonal",
+        "province": "Loja"
+      }
+    },
+    {
+      "id": "client_gad_macara",
+      "label": "GAD Municipal de Macará",
+      "category": "Client",
+      "properties": {
+        "type": "Gobierno Local Cantonal Fronterizo",
+        "province": "Loja"
+      }
+    },
+    {
+      "id": "client_gpl",
+      "label": "Gobierno Provincial de Loja (Prefectura)",
+      "category": "Client",
+      "properties": {
+        "type": "Gobierno Provincial Zonal",
+        "province": "Loja"
+      }
+    },
+    {
+      "id": "client_fides",
+      "label": "Fundación FIDES",
+      "category": "Client",
+      "properties": {
+        "type": "Organización sin fines de lucro / Desarrollo Social",
+        "province": "Ecuador"
+      }
+    },
+    {
+      "id": "client_cacpe_zamora",
+      "label": "Cooperativa CACPE Zamora",
+      "category": "Client",
+      "properties": {
+        "type": "Institución Financiera y Cooperativa",
+        "province": "Zamora Chinchipe"
+      }
+    },
+    {
+      "id": "client_casa_cultura",
+      "label": "Casa de la Cultura Ecuatoriana Núcleo Loja",
+      "category": "Client",
+      "properties": {
+        "type": "Entidad Cultural Pública",
+        "province": "Loja"
+      }
+    },
+    {
+      "id": "client_ue_comision",
+      "label": "Comisión Europea / Horizonte Europa",
+      "category": "Client",
+      "properties": {
+        "type": "Cooperación Multilateral",
+        "province": "Internacional"
+      }
+    },
+    {
+      "id": "client_bid_multilateral",
+      "label": "Banco Interamericano de Desarrollo (BID)",
+      "category": "Client",
+      "properties": {
+        "type": "Banca Multilateral",
+        "province": "América Latina"
+      }
+    },
+    {
+      "id": "proj_paquisha_pdot_pgus",
+      "label": "Actualización del PDOT y Elaboración del PUGS del Cantón Paquisha",
+      "category": "Project",
+      "properties": {
+        "amount_usd": 53539.86,
+        "start_date": "2019-12-17",
+        "end_date": "2020-10-16",
+        "status": "Finalizado con Acta de Recepción Definitiva",
+        "category_type": "Experiencia Específica",
+        "scope": "Diagnóstico biofísico, socio-económico, asentamientos humanos, movilidad, modelo territorial y componente urbanístico de uso y gestión de suelo (PUGS) con cartografía temática oficial.",
+        "skills": [
+          "Planificación Territorial",
+          "PDOT",
+          "PUGS",
+          "SIG y Cartografía",
+          "Modelos Urbanísticos",
+          "Participación Ciudadana"
+        ]
+      }
+    },
+    {
+      "id": "proj_pindal_pgus",
+      "label": "Elaboración del Plan de Uso y Gestión de Suelo (PUGS) del Cantón Pindal",
+      "category": "Project",
+      "properties": {
+        "amount_usd": 78400.0,
+        "start_date": "2020-01-31",
+        "end_date": "2022-09-22",
+        "status": "Finalizado con Acta de Recepción Definitiva",
+        "category_type": "Experiencia Específica",
+        "scope": "Estructuración del componente urbanístico cantonal, zonificación de suelo rural y urbano, instrumentos de gestión del suelo, normativa urbanística y catastro.",
+        "skills": [
+          "PUGS",
+          "Normativa Urbanística",
+          "Zonificación",
+          "Gestión del Suelo",
+          "SIG"
+        ]
+      }
+    },
+    {
+      "id": "proj_chaguarpamba_pdot_pgus",
+      "label": "Actualización del PDOT y Elaboración del PUGS del Cantón Chaguarpamba",
+      "category": "Project",
+      "properties": {
+        "amount_usd": 68250.0,
+        "start_date": "2020-02-26",
+        "end_date": "2020-11-21",
+        "status": "Finalizado con Acta de Recepción Definitiva",
+        "category_type": "Experiencia Específica",
+        "scope": "Revisión y articulación integral del Plan de Desarrollo y Ordenamiento Territorial y Plan de Uso y Gestión de Suelo bajo directrices de la LOOTUGS y SENPLADES.",
+        "skills": [
+          "PDOT",
+          "PUGS",
+          "LOOTUGS",
+          "Planificación Estratégica",
+          "Cartografía Temática"
+        ]
+      }
+    },
+    {
+      "id": "proj_gpl_reduccion_riesgos",
+      "label": "Incorporación de Reducción de Riesgos (Sequías, Inundaciones, Incendios) en PDOT de 7 Cantones y 3 Parroquias",
+      "category": "Project",
+      "properties": {
+        "amount_usd": 26664.0,
+        "start_date": "2019-12-19",
+        "end_date": "2020-06-30",
+        "status": "Finalizado con Acta de Entrega Definitiva",
+        "category_type": "Experiencia General y Específica",
+        "scope": "Análisis multiamenaza y vulnerabilidad climática en Macará, Espíndola, Sozoranga, Calvas, Quilanga, Gonzanamá, Zapotillo y parroquias fronterizas.",
+        "skills": [
+          "Gestión de Riesgos",
+          "Cambio Climático",
+          "Análisis Territorial",
+          "Sequías e Inundaciones",
+          "SIG"
+        ]
+      }
+    },
+    {
+      "id": "proj_gpl_planes_negocio_riego",
+      "label": "Elaboración de Planes de Negocio para Sistemas de Riego Públicos (El Ingenio, El Aíro, El Tablón, La Papaya)",
+      "category": "Project",
+      "properties": {
+        "amount_usd": 48000.0,
+        "start_date": "2020-07-09",
+        "end_date": "2021-02-25",
+        "status": "Finalizado con Acta de Recepción Definitiva",
+        "category_type": "Experiencia Específica",
+        "scope": "Estudios de factibilidad financiera, cadenas de valor agroproductivas, evaluación económica social y modelos de administración tarifaria y sostenibilidad de riego.",
+        "skills": [
+          "Planes de Negocios",
+          "Evaluación Económica",
+          "Finanzas Rurales",
+          "Cadenas Productivas",
+          "Modelización Financiera"
+        ]
+      }
+    },
+    {
+      "id": "proj_pindal_patrimonio",
+      "label": "Plan de Gestión Integral del Patrimonio Cultural del Cantón Pindal",
+      "category": "Project",
+      "properties": {
+        "amount_usd": 33900.0,
+        "start_date": "2021-12-17",
+        "end_date": "2022-05-16",
+        "status": "Finalizado con Acta de Finiquito y Recepción",
+        "category_type": "Experiencia General",
+        "scope": "Inventario de bienes arqueológicos, arquitectónicos e inmateriales, plan de puesta en valor, circuitos turísticos culturales y ordenanza patrimonial.",
+        "skills": [
+          "Patrimonio Cultural",
+          "Políticas Culturales",
+          "Puesta en Valor",
+          "Normativa Municipal"
+        ]
+      }
+    },
+    {
+      "id": "proj_macara_pgus_2024_2025",
+      "label": "Actualización del Plan de Uso y Gestión de Suelo (PUGS) de Macará (Contrato 019-GADMCM-2024)",
+      "category": "Project",
+      "properties": {
+        "amount_usd": 41500.0,
+        "start_date": "2024-12-26",
+        "end_date": "2025-03-15",
+        "status": "Finalizado con Acta de Recepción",
+        "category_type": "Experiencia Específica",
+        "scope": "Actualización integral del componente urbanístico cantonal, proyecciones censales y dinamismo de frontera internacional Ecuador-Perú.",
+        "skills": [
+          "PUGS",
+          "Planificación Fronteriza",
+          "Proyecciones Censales",
+          "LOOTUGS",
+          "SIG Urbano"
+        ]
+      }
+    },
+    {
+      "id": "proj_fides_fondo_creer",
+      "label": "Consultoría Interdisciplinaria (Legal, Técnica y Económica) para Creación del Fondo Social CREER",
+      "category": "Project",
+      "properties": {
+        "amount_usd": 10100.0,
+        "start_date": "2025-06-23",
+        "end_date": "2025-10-03",
+        "status": "Finalizado con Acta de Finiquito",
+        "category_type": "Experiencia Específica",
+        "scope": "Estructuración fiduciaria, financiera y operativa de un fondo de inversión social con enfoque de capital semilla y microcrédito.",
+        "skills": [
+          "Fideicomisos Sociales",
+          "Estructuración Financiera",
+          "Asesoría Legal y Técnica",
+          "Inclusión Económica"
+        ]
+      }
+    },
+    {
+      "id": "skill_python",
+      "label": "Programación en Python",
+      "category": "Skill",
+      "properties": {
+        "domain": "Data & Tech",
+        "description": "Automatización, análisis de datos, scraping, modelos predictivos, Linux, Git"
+      }
+    },
+    {
+      "id": "skill_r_stats",
+      "label": "R y Modelización Econométrica",
+      "category": "Skill",
+      "properties": {
+        "domain": "Data & Tech",
+        "description": "Análisis estadístico avanzado, encuestas (ESPAC, ENEMDU, Censos), evaluación de impacto"
+      }
+    },
+    {
+      "id": "skill_stata",
+      "label": "STATA y Microdatos Econométricos",
+      "category": "Skill",
+      "properties": {
+        "domain": "Data & Tech",
+        "description": "Tratamiento de microdatos censales, paneles y modelos de regresión"
+      }
+    },
+    {
+      "id": "skill_gis_cartography",
+      "label": "SIG y Cartografía Geoespacial (QGIS/ArcGIS)",
+      "category": "Skill",
+      "properties": {
+        "domain": "Data & Tech",
+        "description": "Georreferenciación, zonificación de suelo, análisis multicriterio espacial"
+      }
+    },
+    {
+      "id": "skill_data_analytics",
+      "label": "Data Analytics y Business Intelligence",
+      "category": "Skill",
+      "properties": {
+        "domain": "Data & Tech",
+        "description": "Visualización de datos, dashboards ejecutivos, KPIs y métricas"
+      }
+    },
+    {
+      "id": "skill_horizon_europe",
+      "label": "Gestión de Fondos Europeos (Horizonte Europa)",
+      "category": "Skill",
+      "properties": {
+        "domain": "International & R&D",
+        "description": "Estructuración de consorcios internacionales, convocatorias de la Comisión Europea"
+      }
+    },
+    {
+      "id": "skill_evaluacion_idi",
+      "label": "Evaluación y Certificación de I+D+i (UNESCO)",
+      "category": "Skill",
+      "properties": {
+        "domain": "International & R&D",
+        "description": "Calificación de proyectos de investigación científica e innovación a 4 y 6 dígitos UNESCO"
+      }
+    },
+    {
+      "id": "skill_politica_fiscal",
+      "label": "Política Fiscal y Macroeconómica",
+      "category": "Skill",
+      "properties": {
+        "domain": "Economics & Finance",
+        "description": "Evaluación fiscal, subsidios, optimización de gasto y sostenibilidad de deuda"
+      }
+    },
+    {
+      "id": "skill_banca_desarrollo",
+      "label": "Banca de Desarrollo y Crédito Territorial",
+      "category": "Skill",
+      "properties": {
+        "domain": "Economics & Finance",
+        "description": "Estructuración de carteras crediticias públicas con CAF, BID y BDE"
+      }
+    },
+    {
+      "id": "skill_finanzas_proyectos",
+      "label": "Evaluación Financiera y Social de Proyectos",
+      "category": "Skill",
+      "properties": {
+        "domain": "Economics & Finance",
+        "description": "TIR, VAN, análisis costo-beneficio, estructuración de presupuestos"
+      }
+    },
+    {
+      "id": "skill_planes_negocio",
+      "label": "Formulación de Planes de Negocio",
+      "category": "Skill",
+      "properties": {
+        "domain": "Economics & Finance",
+        "description": "Estudios de mercado, factibilidad técnica, esquemas tarifarios"
+      }
+    },
+    {
+      "id": "skill_fideicomisos",
+      "label": "Estructuración de Fideicomisos y Fondos Sociales",
+      "category": "Skill",
+      "properties": {
+        "domain": "Economics & Finance",
+        "description": "Mecanismos de supervisión fiduciaria, fondos revolventes, inclusión económica"
+      }
+    },
+    {
+      "id": "skill_prospectiva_cepal",
+      "label": "Planificación Prospectiva y Escenarios 2030 (ILPES/CEPAL)",
+      "category": "Skill",
+      "properties": {
+        "domain": "Planning & Urban",
+        "description": "Metodologías de prospectiva territorial, escenarios futuros y visión estratégica"
+      }
+    },
+    {
+      "id": "skill_pdot",
+      "label": "Planes de Desarrollo y Ordenamiento Territorial (PDOT)",
+      "category": "Skill",
+      "properties": {
+        "domain": "Planning & Urban",
+        "description": "Diagnóstico integral cantonal, modelo territorial, formulación de metas e indicadores"
+      }
+    },
+    {
+      "id": "skill_pugs",
+      "label": "Planes de Uso y Gestión de Suelo (PUGS)",
+      "category": "Skill",
+      "properties": {
+        "domain": "Planning & Urban",
+        "description": "Clasificación y subclasificación de suelo, aprovechamiento urbanístico, polígonos de intervención"
+      }
+    },
+    {
+      "id": "skill_lootugs",
+      "label": "Normativa Territorial y LOOTUGS",
+      "category": "Skill",
+      "properties": {
+        "domain": "Planning & Urban",
+        "description": "Marco legal de ordenamiento territorial, instrumentos de gestión del suelo, ordenanzas municipales"
+      }
+    },
+    {
+      "id": "skill_riesgos_clima",
+      "label": "Gestión de Riesgos y Resiliencia Climática",
+      "category": "Skill",
+      "properties": {
+        "domain": "Planning & Urban",
+        "description": "Análisis de amenazas por inundaciones, sequías e incendios forestales"
+      }
+    },
+    {
+      "id": "skill_gobierno_abierto",
+      "label": "Gobierno Abierto y Transparencia Municipal (OEA)",
+      "category": "Skill",
+      "properties": {
+        "domain": "Governance & Policy",
+        "description": "Datos abiertos, participación ciudadana, modernización de la gestión pública local"
+      }
+    },
+    {
+      "id": "skill_sercop_licitaciones",
+      "label": "Contratación Pública y Normativa SERCOP",
+      "category": "Skill",
+      "properties": {
+        "domain": "Governance & Policy",
+        "description": "Preparación de ofertas técnicas y económicas, pliegos, habilitación RUP"
+      }
+    },
+    {
+      "id": "skill_comunicacion_politica",
+      "label": "Estrategia de Comunicación Política y Campañas",
+      "category": "Skill",
+      "properties": {
+        "domain": "Governance & Policy",
+        "description": "Opinión pública, buyer persona, segmentación de audiencias y redes"
+      }
+    },
+    {
+      "id": "doc_ruc_planning",
+      "label": "RUC 1191786099001 - Planning & Solution S.A.",
+      "category": "Document",
+      "properties": {
+        "doc_type": "Legal/Tributario",
+        "description": "Certificado del Servicio de Rentas Internas (SRI)"
+      }
+    },
+    {
+      "id": "doc_rup_sercop",
+      "label": "Registro Único de Proveedores (RUP)",
+      "category": "Document",
+      "properties": {
+        "doc_type": "SERCOP",
+        "description": "Habilitación vigente para contratar con el Estado Ecuatoriano"
+      }
+    },
+    {
+      "id": "doc_escritura_constitucion",
+      "label": "Escritura de Constitución de Compañía",
+      "category": "Document",
+      "properties": {
+        "doc_type": "Societario",
+        "description": "Constitución notariada e inscrita en el Registro Mercantil"
+      }
+    },
+    {
+      "id": "doc_nombramiento_gerente",
+      "label": "Nombramiento de Gerente General - José Vicente Ordóñez",
+      "category": "Document",
+      "properties": {
+        "doc_type": "Societario",
+        "description": "Inscripción en el Registro Mercantil y Superintendencia de Compañías"
+      }
+    },
+    {
+      "id": "doc_cuenta_banco_pacifico",
+      "label": "Certificación Bancaria de Cuenta Corriente",
+      "category": "Document",
+      "properties": {
+        "doc_type": "Financiero",
+        "description": "Banco del Pacífico - Planning & Solution S.A."
+      }
+    },
+    {
+      "id": "doc_polizas_garantias",
+      "label": "Pólizas de Fiel Cumplimiento y Buen Uso de Anticipo",
+      "category": "Document",
+      "properties": {
+        "doc_type": "Garantías",
+        "description": "Seguros Confianza y respaldos de contratos públicos"
+      }
+    },
+    {
+      "id": "doc_actas_entrega",
+      "label": "Compilado de Actas de Entrega-Recepción Definitiva",
+      "category": "Document",
+      "properties": {
+        "doc_type": "Contractual",
+        "description": "Actas definitivas suscritas sin observaciones con GADs y Prefectura"
+      }
+    },
+    {
+      "id": "doc_cv_firmado_jv_2026",
+      "label": "Hoja de Vida José Vicente Ordóñez (Marzo 2026)",
+      "category": "Document",
+      "properties": {
+        "doc_type": "Curricular",
+        "description": "Hoja de vida oficial con firma electrónica FirmaEC"
+      }
+    },
+    {
+      "id": "doc_cv_respaldos_kevin",
+      "label": "Currículo Kevin Jiménez con Respaldos Institucionales",
+      "category": "Document",
+      "properties": {
+        "doc_type": "Curricular",
+        "description": "Dossier probatorio con cartas de delegación UE, MinFinanzas y BDE"
+      }
+    },
+    {
+      "id": "domain_territorial_consulting",
+      "label": "Consultoría en Planificación Territorial y Urbana",
+      "category": "DomainArea",
+      "properties": {
+        "description": "Licitaciones públicas, cooperación y municipios para PDOT, PUGS y planes de uso de suelo"
+      }
+    },
+    {
+      "id": "domain_remote_data_economics",
+      "label": "Trabajos Remotos en Análisis de Datos y Econometría",
+      "category": "DomainArea",
+      "properties": {
+        "description": "Vacantes remotas y consultorías internacionales en R, Python, análisis de políticas y microdatos estadísticos"
+      }
+    },
+    {
+      "id": "domain_european_international_funds",
+      "label": "Fondos Internacionales e I+D+i (Horizonte Europa / Multilaterales)",
+      "category": "DomainArea",
+      "properties": {
+        "description": "Proyectos financiados por la Unión Europea, BID, CAF y organismos globales de investigación e innovación"
+      }
+    },
+    {
+      "id": "domain_public_policy_fiscal",
+      "label": "Políticas Públicas, Sostenibilidad Fiscal y Banca de Desarrollo",
+      "category": "DomainArea",
+      "properties": {
+        "description": "Asesorías en estructuración de deuda pública, crédito territorial, inversión y fideicomisos"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "comp_planning_solutions",
+      "target": "person_jose_vicente_ordonez",
+      "relationship": "HAS_GENERAL_MANAGER",
+      "weight": 1.0,
+      "properties": {
+        "since": "2019"
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "comp_planning_solutions",
+      "relationship": "REPRESENTS_LEGALLY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "person_kevin_jimenez",
+      "relationship": "HAS_PRESIDENT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "person_jose_vicente_ordonez",
+      "relationship": "CO_AUTHOR_AND_PARTNER",
+      "weight": 1.0,
+      "properties": {
+        "joint_works": [
+          "ILPES-CEPAL 2014 Santiago de Chile",
+          "Visión de Futuro Zamora 2030",
+          "Planning & Solution"
+        ]
+      }
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "person_diego_castro",
+      "relationship": "HAS_SENIOR_CONSULTANT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "person_diego_sanchez",
+      "relationship": "HAS_TECHNICAL_STAFF",
+      "weight": 0.8,
+      "properties": {
+        "role": "Especialista Técnico / Planificador"
+      }
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "person_luis_eguiguren",
+      "relationship": "HAS_TECHNICAL_STAFF",
+      "weight": 0.8,
+      "properties": {
+        "role": "Especialista Ambiental / Recursos Naturales"
+      }
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "person_maria_dominguez",
+      "relationship": "HAS_TECHNICAL_STAFF",
+      "weight": 0.8,
+      "properties": {
+        "role": "Especialista Social y Género"
+      }
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "person_santiago_saavedra",
+      "relationship": "HAS_TECHNICAL_STAFF",
+      "weight": 0.8,
+      "properties": {
+        "role": "Especialista en Cartografía y Sistemas SIG"
+      }
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "person_sofia_lopez",
+      "relationship": "HAS_TECHNICAL_STAFF",
+      "weight": 0.8,
+      "properties": {
+        "role": "Especialista Económica y Financiera"
+      }
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "person_ernesto_pena",
+      "relationship": "HAS_TECHNICAL_STAFF",
+      "weight": 0.8,
+      "properties": {
+        "role": "Especialista Legal y Normativo"
+      }
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "person_dany_salinas",
+      "relationship": "HAS_TECHNICAL_STAFF",
+      "weight": 0.8,
+      "properties": {
+        "role": "Socio y Especialista en Gestión"
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "deg_phd_c_santiago",
+      "relationship": "HOLDS_DEGREE",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Universidad Santiago de Compostela (España)"
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "deg_master_gestion_tierra",
+      "relationship": "HOLDS_DEGREE",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Universidad Santiago de Compostela (España)"
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "deg_master_com_pol",
+      "relationship": "HOLDS_DEGREE",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Universidad Internacional de La Rioja - UNIR (España)"
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "deg_diploma_mercadeo",
+      "relationship": "HOLDS_DEGREE",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Universidad Técnica Particular de Loja (UTPL)"
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "deg_economista_utpl",
+      "relationship": "HOLDS_DEGREE",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Universidad Técnica Particular de Loja (UTPL)"
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "deg_magister_kevin",
+      "relationship": "HOLDS_DEGREE",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Universidad de Postgrado"
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "deg_economista_kevin",
+      "relationship": "HOLDS_DEGREE",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Universidad Nacional / Acreditada"
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "cert_kuleuven_open_science",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "KU Leuven (Leuven, Bélgica)",
+        "hours": 80
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "cert_r_capacitador_unl",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Carrera de Economía UNL",
+        "hours": 20
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "cert_ibm_r_datascience",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Cognitive Class / IBM Developer Skills Network",
+        "hours": 200
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "cert_idb_cartography",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Inter-American Development Bank (BID / IDB)",
+        "hours": 40
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "cert_oas_opengov",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Organización de los Estados Americanos (OAS / OEA)",
+        "hours": 120
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "cert_miami_leadership",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "City University Miami (Miami, FL)",
+        "hours": 45
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "cert_cepal_ilpes_prospectiva",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "ILPES / CEPAL Naciones Unidas",
+        "hours": 192
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "cert_stata_cuenca",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Universidad de Cuenca",
+        "hours": 16
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "cert_clirsen_sig",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "CLIRSEN",
+        "hours": 32
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "cert_arcgis_usc_espana",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Universidad Santiago de Compostela (Lugo, España)",
+        "hours": 40
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "cert_climate_portugal",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Univ. Aveiro (Portugal) / Univ. Holanda / España / Bulgaria",
+        "hours": 60
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "cert_ncp_horizon_europe",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Delegación de la Unión Europea en Ecuador",
+        "hours": 0
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "cert_eqa_madrid_idi",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "EQA Certificados I+D+i (Madrid, España)",
+        "hours": 0
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "cert_reconocimiento_minfinanzas",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Exministro de Economía y Finanzas del Ecuador",
+        "hours": 0
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "cert_bde_creditos_territoriales",
+      "relationship": "CERTIFIED_IN",
+      "weight": 1.0,
+      "properties": {
+        "institution": "Banco de Desarrollo del Ecuador (BDE)",
+        "hours": 0
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "inst_unl_maestria",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Director de Posgrado",
+        "period": "2022-10 a Actualidad",
+        "duration_months": 34,
+        "activities": "Dirección académica, docencia en políticas públicas y dirección de tesis."
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "inst_unl_profesor_titular",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Profesor Titular Principal",
+        "period": "2017-06 a Actualidad",
+        "duration_months": 96,
+        "activities": "Docencia e investigación en teoría económica, desarrollo y ordenamiento territorial."
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "inst_ame",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Coordinador Regional AME 7",
+        "period": "2022-02 a 2022-07",
+        "duration_months": 6,
+        "activities": "Asesoramiento técnico a los 39 GADs municipales de Loja, El Oro y Zamora Chinchipe."
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "inst_mies",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Coordinador Zonal 7",
+        "period": "2019-12 a 2021-05",
+        "duration_months": 18,
+        "activities": "Políticas sociales y supervisión de unidades técnicas zonales."
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "inst_ecu911",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Jefe Local de Operaciones",
+        "period": "2019-04 a 2019-11",
+        "duration_months": 8,
+        "activities": "Coordinación interinstitucional y analítica situacional de emergencias."
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "inst_sot",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Intendente Zonal 7",
+        "period": "2018-07 a 2019-03",
+        "duration_months": 9,
+        "activities": "Vigilancia y fiscalización del cumplimiento de la LOOTUGS y catastros."
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "inst_unl_dir_economia",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Director de Carrera",
+        "period": "2017-06 a 2017-09",
+        "duration_months": 4,
+        "activities": "Gestión pedagógica y administrativa."
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "inst_senplades_subsecretario",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Subsecretario Zonal (e)",
+        "period": "2015-12 a 2016-04",
+        "duration_months": 4,
+        "activities": "Liderazgo técnico de la planificación zonal y articulación de inversión pública."
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "inst_senplades_dir_planif",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Director de Planificación Zonal",
+        "period": "2013-02 a 2016-05",
+        "duration_months": 39,
+        "activities": "Formulación de la Agenda Zonal 7-Sur 2013-2017 y seguimiento de PDOTs."
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "inst_plan_binacional_dir",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Director Ejecutivo (e)",
+        "period": "2016-02 a 2016-04",
+        "duration_months": 2,
+        "activities": "Gestión de proyectos binacionales de inversión e integración."
+      }
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "inst_plan_binacional_consultor",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Consultor Especialista",
+        "period": "2012-04 a 2013-04",
+        "duration_months": 12,
+        "activities": "Estudios territoriales y prospectiva en la cuenca fronteriza Ecuador-Perú."
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "inst_ue_horizonte_europa",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Punto Nacional de Contacto (NCP) Horizonte Europa",
+        "period": "2023-12 a Actualidad",
+        "duration_months": 24,
+        "activities": "Promoción, estructuración y vinculación de proyectos de investigación e innovación tecnológica para captar fondos del programa de €95.000 millones."
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "inst_eqa_madrid",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Evaluador de Proyectos de I+D+i (Códigos UNESCO)",
+        "period": "2024-04 a Actualidad",
+        "duration_months": 12,
+        "activities": "Evaluación técnico-financiera y certificación de actividades de innovación bajo estándares de la Unión Europea y UNESCO."
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "inst_min_finanzas",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Asesor Ministerial",
+        "period": "2018-05 a 2020-08",
+        "duration_months": 27,
+        "activities": "Política fiscal, optimización de gasto, subsidios de combustibles, miembro del Directorio de CONAFIPS y relación con CAF, BID y BM."
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "inst_bde",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Gerente de Sucursal Zonal Sur y Coordinador de Evaluación",
+        "period": "2017-09 a 2021-05",
+        "duration_months": 44,
+        "activities": "Financiamiento y evaluación de proyectos de infraestructura pública para GADs municipales y provinciales con más de USD 120 millones colocados."
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "inst_senplades_inversion",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Director de Inversión Pública, Seguimiento y Evaluación",
+        "period": "2011-03 a 2013-02",
+        "duration_months": 24,
+        "activities": "Dictámenes de prioridad de proyectos de inversión pública, evaluación de impacto socioeconómico y seguimiento."
+      }
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "inst_unl_docente_kj",
+      "relationship": "SERVED_AS",
+      "weight": 1.0,
+      "properties": {
+        "role": "Docente de Dirección Estratégica y Director de Tesis de Maestría",
+        "period": "2021-05 a Actualidad",
+        "duration_months": 36,
+        "activities": "Formación de posgrado en maestría de Economía y Dirección de Empresas."
+      }
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "proj_paquisha_pdot_pgus",
+      "relationship": "EXECUTED_PROJECT",
+      "weight": 1.0,
+      "properties": {
+        "amount_usd": 53539.86
+      }
+    },
+    {
+      "source": "proj_paquisha_pdot_pgus",
+      "target": "client_gad_paquisha",
+      "relationship": "CONTRACTED_BY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "proj_paquisha_pdot_pgus",
+      "relationship": "DIRECTED_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "proj_pindal_pgus",
+      "relationship": "EXECUTED_PROJECT",
+      "weight": 1.0,
+      "properties": {
+        "amount_usd": 78400.0
+      }
+    },
+    {
+      "source": "proj_pindal_pgus",
+      "target": "client_gad_pindal",
+      "relationship": "CONTRACTED_BY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "proj_pindal_pgus",
+      "relationship": "DIRECTED_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "proj_chaguarpamba_pdot_pgus",
+      "relationship": "EXECUTED_PROJECT",
+      "weight": 1.0,
+      "properties": {
+        "amount_usd": 68250.0
+      }
+    },
+    {
+      "source": "proj_chaguarpamba_pdot_pgus",
+      "target": "client_gad_chaguarpamba",
+      "relationship": "CONTRACTED_BY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "proj_chaguarpamba_pdot_pgus",
+      "relationship": "DIRECTED_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "proj_gpl_reduccion_riesgos",
+      "relationship": "EXECUTED_PROJECT",
+      "weight": 1.0,
+      "properties": {
+        "amount_usd": 26664.0
+      }
+    },
+    {
+      "source": "proj_gpl_reduccion_riesgos",
+      "target": "client_gpl",
+      "relationship": "CONTRACTED_BY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "proj_gpl_reduccion_riesgos",
+      "relationship": "DIRECTED_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "proj_gpl_planes_negocio_riego",
+      "relationship": "EXECUTED_PROJECT",
+      "weight": 1.0,
+      "properties": {
+        "amount_usd": 48000.0
+      }
+    },
+    {
+      "source": "proj_gpl_planes_negocio_riego",
+      "target": "client_gpl",
+      "relationship": "CONTRACTED_BY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "proj_gpl_planes_negocio_riego",
+      "relationship": "DIRECTED_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "proj_pindal_patrimonio",
+      "relationship": "EXECUTED_PROJECT",
+      "weight": 1.0,
+      "properties": {
+        "amount_usd": 33900.0
+      }
+    },
+    {
+      "source": "proj_pindal_patrimonio",
+      "target": "client_gad_pindal",
+      "relationship": "CONTRACTED_BY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "proj_pindal_patrimonio",
+      "relationship": "DIRECTED_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "proj_macara_pgus_2024_2025",
+      "relationship": "EXECUTED_PROJECT",
+      "weight": 1.0,
+      "properties": {
+        "amount_usd": 41500.0
+      }
+    },
+    {
+      "source": "proj_macara_pgus_2024_2025",
+      "target": "client_gad_macara",
+      "relationship": "CONTRACTED_BY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "proj_macara_pgus_2024_2025",
+      "relationship": "DIRECTED_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "proj_fides_fondo_creer",
+      "relationship": "EXECUTED_PROJECT",
+      "weight": 1.0,
+      "properties": {
+        "amount_usd": 10100.0
+      }
+    },
+    {
+      "source": "proj_fides_fondo_creer",
+      "target": "client_fides",
+      "relationship": "CONTRACTED_BY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "proj_fides_fondo_creer",
+      "relationship": "DIRECTED_PROJECT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_python",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_r_stats",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_stata",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_gis_cartography",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_data_analytics",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_prospectiva_cepal",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_pdot",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_pugs",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_lootugs",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_riesgos_clima",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_finanzas_proyectos",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_planes_negocio",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_fideicomisos",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_gobierno_abierto",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_sercop_licitaciones",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "skill_comunicacion_politica",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "skill_data_analytics",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "skill_horizon_europe",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "skill_evaluacion_idi",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "skill_politica_fiscal",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "skill_banca_desarrollo",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "skill_finanzas_proyectos",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "skill_prospectiva_cepal",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "skill_gobierno_abierto",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "skill_sercop_licitaciones",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_diego_castro",
+      "target": "skill_pugs",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_diego_castro",
+      "target": "skill_pdot",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_diego_castro",
+      "target": "skill_lootugs",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_diego_castro",
+      "target": "skill_gis_cartography",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source": "person_santiago_saavedra",
+      "target": "skill_gis_cartography",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_santiago_saavedra",
+      "target": "skill_data_analytics",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source": "person_ernesto_pena",
+      "target": "skill_lootugs",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_ernesto_pena",
+      "target": "skill_sercop_licitaciones",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_ernesto_pena",
+      "target": "skill_fideicomisos",
+      "relationship": "HAS_PROFICIENCY",
+      "weight": 0.9,
+      "properties": {}
+    },
+    {
+      "source": "proj_paquisha_pdot_pgus",
+      "target": "skill_r_stats",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_paquisha_pdot_pgus",
+      "target": "skill_gis_cartography",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_paquisha_pdot_pgus",
+      "target": "skill_horizon_europe",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_paquisha_pdot_pgus",
+      "target": "skill_prospectiva_cepal",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_paquisha_pdot_pgus",
+      "target": "skill_riesgos_clima",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_pindal_pgus",
+      "target": "skill_r_stats",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_pindal_pgus",
+      "target": "skill_gis_cartography",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_pindal_pgus",
+      "target": "skill_horizon_europe",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_pindal_pgus",
+      "target": "skill_fideicomisos",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_pindal_pgus",
+      "target": "skill_lootugs",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_pindal_pgus",
+      "target": "skill_riesgos_clima",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_chaguarpamba_pdot_pgus",
+      "target": "skill_r_stats",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_chaguarpamba_pdot_pgus",
+      "target": "skill_horizon_europe",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_chaguarpamba_pdot_pgus",
+      "target": "skill_prospectiva_cepal",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_chaguarpamba_pdot_pgus",
+      "target": "skill_riesgos_clima",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_gpl_reduccion_riesgos",
+      "target": "skill_r_stats",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_gpl_reduccion_riesgos",
+      "target": "skill_gis_cartography",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_gpl_reduccion_riesgos",
+      "target": "skill_horizon_europe",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_gpl_reduccion_riesgos",
+      "target": "skill_riesgos_clima",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_gpl_planes_negocio_riego",
+      "target": "skill_r_stats",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_gpl_planes_negocio_riego",
+      "target": "skill_evaluacion_idi",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_gpl_planes_negocio_riego",
+      "target": "skill_finanzas_proyectos",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_gpl_planes_negocio_riego",
+      "target": "skill_pdot",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_gpl_planes_negocio_riego",
+      "target": "skill_pugs",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_pindal_patrimonio",
+      "target": "skill_r_stats",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_pindal_patrimonio",
+      "target": "skill_politica_fiscal",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_pindal_patrimonio",
+      "target": "skill_lootugs",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_macara_pgus_2024_2025",
+      "target": "skill_r_stats",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_macara_pgus_2024_2025",
+      "target": "skill_gis_cartography",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_macara_pgus_2024_2025",
+      "target": "skill_prospectiva_cepal",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_fides_fondo_creer",
+      "target": "skill_r_stats",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "proj_fides_fondo_creer",
+      "target": "skill_fideicomisos",
+      "relationship": "APPLIED_SKILL",
+      "weight": 0.85,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "doc_ruc_planning",
+      "relationship": "HOLDS_DOCUMENT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "doc_rup_sercop",
+      "relationship": "HOLDS_DOCUMENT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "doc_escritura_constitucion",
+      "relationship": "HOLDS_DOCUMENT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "doc_nombramiento_gerente",
+      "relationship": "HOLDS_DOCUMENT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "doc_cuenta_banco_pacifico",
+      "relationship": "HOLDS_DOCUMENT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "doc_polizas_garantias",
+      "relationship": "HOLDS_DOCUMENT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "doc_actas_entrega",
+      "relationship": "HOLDS_DOCUMENT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "doc_cv_firmado_jv_2026",
+      "relationship": "HOLDS_DOCUMENT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "doc_cv_respaldos_kevin",
+      "relationship": "HOLDS_DOCUMENT",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_jose_vicente_ordonez",
+      "target": "doc_cv_firmado_jv_2026",
+      "relationship": "BACKED_BY_CV",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "person_kevin_jimenez",
+      "target": "doc_cv_respaldos_kevin",
+      "relationship": "BACKED_BY_CV",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "domain_territorial_consulting",
+      "relationship": "OFFERS_SERVICES_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "domain_remote_data_economics",
+      "relationship": "OFFERS_SERVICES_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "domain_european_international_funds",
+      "relationship": "OFFERS_SERVICES_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "comp_planning_solutions",
+      "target": "domain_public_policy_fiscal",
+      "relationship": "OFFERS_SERVICES_IN",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "skill_r_stats",
+      "target": "domain_remote_data_economics",
+      "relationship": "ENABLER_FOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "skill_python",
+      "target": "domain_remote_data_economics",
+      "relationship": "ENABLER_FOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "skill_stata",
+      "target": "domain_remote_data_economics",
+      "relationship": "ENABLER_FOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "skill_horizon_europe",
+      "target": "domain_european_international_funds",
+      "relationship": "ENABLER_FOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "skill_evaluacion_idi",
+      "target": "domain_european_international_funds",
+      "relationship": "ENABLER_FOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "skill_politica_fiscal",
+      "target": "domain_public_policy_fiscal",
+      "relationship": "ENABLER_FOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "skill_banca_desarrollo",
+      "target": "domain_public_policy_fiscal",
+      "relationship": "ENABLER_FOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "skill_gis_cartography",
+      "target": "domain_territorial_consulting",
+      "relationship": "ENABLER_FOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "skill_pugs",
+      "target": "domain_territorial_consulting",
+      "relationship": "ENABLER_FOR",
+      "weight": 1.0,
+      "properties": {}
+    },
+    {
+      "source": "skill_pdot",
+      "target": "domain_territorial_consulting",
+      "relationship": "ENABLER_FOR",
+      "weight": 1.0,
+      "properties": {}
+    }
+  ]
+}
