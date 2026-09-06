@@ -1,0 +1,29 @@
+{
+  "convocatoria": {
+    "codigo_proceso": "CPC-GADMC-2026-012",
+    "entidad": "Gobierno Autónomo Descentralizado Municipal de Catamayo",
+    "objeto": "Actualización integral del Plan de Desarrollo y Ordenamiento Territorial (PDOT) y Plan de Uso y Gestión de Suelo (PUGS) del Cantón Catamayo bajo normativa LOOTUGS",
+    "presupuesto_usd": 72500.0,
+    "plazo_dias": 180,
+    "fecha_preguntas": "2026-09-10 15:00",
+    "fecha_ofertas": "2026-09-24 14:00",
+    "url_pliego": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-51uake-CPC-GADMC-2026-012",
+    "fuente": "SERCOP_CONCURSO_PUBLICO"
+  },
+  "evaluacion": {
+    "score": 96,
+    "veredicto": "IR_SOLOS",
+    "veredicto_label": "🟢 IR SOLOS (100% CAPACIDAD PROPIA P&S)",
+    "puntos_fuertes": "• Experiencia específica acumulada ($360.3k) y dos contratos individuales (Pindal $78.4k y Prefectura $74.6k) que superan el presupuesto referencial en la misma provincia.\n• Liderazgo técnico con titulación de cuarto nivel específica en Ordenamiento Territorial y especialista en sistemas de datos.",
+    "puntos_debiles": "• Falta en nómina interna de perfiles técnicos complementarios exigidos por LOOTUGS: Especialista Ambiental/Biofísico, Urbanista y Sociólogo.\n• Presupuesto referencial ($72.5k) restrictivo para el alcance simultáneo de PDOT y PUGS."
+  },
+  "empresa": {
+    "nombre": "Planning & Solution S.A.",
+    "ruc": "1793138841001",
+    "experiencia_usd": 360000.0,
+    "equipo": [
+      "Arq. José Vicente",
+      "Ing. Kevin Jiménez"
+    ]
+  }
+}
