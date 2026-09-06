@@ -1,16 +1,16 @@
 # 🤖 BRIEFING Y PROMPT MAESTRO PARA AGENTE DE IA
-> **Herramientas recomendadas:** Claude Code, Cursor, OpenAI Codex, Google Antigravity, GitHub Copilot.
+> **Herramientas compatibles:** Google Antigravity, Claude Code, Cursor, OpenAI Codex, VS Code Copilot.
 
 ---
 
-## 🏢 1. IDENTIDAD DE LA EMPRESA CONSULTORA
-- **Empresa:** Planning & Solution S.A.
-- **RUC:** 1793138841001
-- **Especialidad:** Planificación Territorial (normativa LOOTUGS), Actualización integral de PDOT y PUGS, Catastro Multifinalitario, Cartografía SIG, Planes de Movilidad Urbana Sostenible.
-- **Experiencia Demostrada:** Más de $360,000.00 USD en contratos adjudicados y ejecutados a entera satisfacción con GADs Cantonales y Provinciales en Ecuador.
+## 🏢 1. IDENTIDAD Y EXPERIENCIA DE PLANNING & SOLUTION S.A.
+- **Empresa:** Planning & Solution S.A. (RUC: 1793138841001)
+- **Especialidad:** Planificación Territorial (LOOTUGS), Actualización integral de PDOT y PUGS, Catastro Multifinalitario, Cartografía SIG, Planes de Movilidad Urbana.
+- **Experiencia Demostrada:** Más de $360,000.00 USD en contratos adjudicados y concluidos con éxito con GADs Cantonales y Provinciales en Ecuador.
 - **Equipo Técnico Clave:**
-  - **Director de Proyecto:** Arq. José Vicente (Especialista en Urbanismo y Ordenamiento Territorial, +15 años de experiencia).
+  - **Director de Proyecto:** Arq. José Vicente (Urbanista y Planificador Territorial, +15 años de experiencia en normativa LOOTUGS).
   - **Coordinador Técnico / SIG:** Ing. Kevin Jiménez (Especialista en Geotecnologías, Catastro y Cartografía Temática).
+- **Grafo de Conocimiento Adjunto:** En este repositorio tienes el archivo `knowledge_graph.json` con el detalle de todos los contratos anteriores, actas de entrega y montos certificados para citar en la propuesta.
 
 ---
 
@@ -21,7 +21,7 @@
 - **Presupuesto Referencial:** $72,500.00 USD
 - **Fecha Límite para Preguntas:** 2026-09-10 15:00
 - **Fecha Límite de Entrega de Ofertas:** 2026-09-24 14:00
-- **Enlace al Pliego Oficial en SERCOP:** [Consultar Pliego y Anexos en SOCE](https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-51uake-CPC-GADMC-2026-012)
+- **Enlace al Pliego Oficial en SERCOP:** [Consultar Pliego Oficial en SOCE](https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-51uake-CPC-GADMC-2026-012)
 
 ---
 
@@ -30,79 +30,34 @@
 - **Puntos Fuertes Identificados:**
   • •
   •  
-  • E
-  • x
-  • p
-  • e
-  • r
-  • i
-  • e
-  • n
-  • c
-  • i
-  • a
+  • 5
   •  
-  • e
-  • s
-  • p
-  • e
   • c
-  • í
+  • o
+  • n
+  • t
+  • r
+  • a
+  • t
+  • o
+  • s
+  •  
+  • a
   • f
   • i
-  • c
-  • a
-  •  
-  • a
-  • c
-  • u
-  • m
-  • u
-  • l
-  • a
-  • d
-  • a
+  • n
+  • e
+  • s
   •  
   • (
   • $
   • 3
   • 6
   • 0
-  • .
-  • 3
   • k
   • )
+  • :
   •  
-  • y
-  •  
-  • d
-  • o
-  • s
-  •  
-  • c
-  • o
-  • n
-  • t
-  • r
-  • a
-  • t
-  • o
-  • s
-  •  
-  • i
-  • n
-  • d
-  • i
-  • v
-  • i
-  • d
-  • u
-  • a
-  • l
-  • e
-  • s
-  •  
-  • (
   • P
   • i
   • n
@@ -110,463 +65,237 @@
   • a
   • l
   •  
+  • (
   • $
   • 7
   • 8
   • .
   • 4
   • k
-  •  
-  • y
-  •  
-  • P
-  • r
-  • e
-  • f
-  • e
-  • c
-  • t
-  • u
-  • r
-  • a
-  •  
-  • $
-  • 7
-  • 4
-  • .
-  • 6
-  • k
   • )
-  •  
-  • q
-  • u
-  • e
-  •  
-  • s
-  • u
-  • p
-  • e
-  • r
-  • a
-  • n
-  •  
-  • e
-  • l
-  •  
-  • p
-  • r
-  • e
-  • s
-  • u
-  • p
-  • u
-  • e
-  • s
-  • t
-  • o
-  •  
-  • r
-  • e
-  • f
-  • e
-  • r
-  • e
-  • n
-  • c
-  • i
-  • a
-  • l
-  •  
-  • e
-  • n
-  •  
-  • l
-  • a
-  •  
-  • m
-  • i
-  • s
-  • m
-  • a
-  •  
-  • p
-  • r
-  • o
-  • v
-  • i
-  • n
-  • c
-  • i
-  • a
-  • .
-  • 
-
-  • •
-  •  
-  • L
-  • i
-  • d
-  • e
-  • r
-  • a
-  • z
-  • g
-  • o
-  •  
-  • t
-  • é
-  • c
-  • n
-  • i
-  • c
-  • o
-  •  
-  • c
-  • o
-  • n
-  •  
-  • t
-  • i
-  • t
-  • u
-  • l
-  • a
-  • c
-  • i
-  • ó
-  • n
-  •  
-  • d
-  • e
-  •  
-  • c
-  • u
-  • a
-  • r
-  • t
-  • o
-  •  
-  • n
-  • i
-  • v
-  • e
-  • l
-  •  
-  • e
-  • s
-  • p
-  • e
-  • c
-  • í
-  • f
-  • i
-  • c
-  • a
-  •  
-  • e
-  • n
-  •  
-  • O
-  • r
-  • d
-  • e
-  • n
-  • a
-  • m
-  • i
-  • e
-  • n
-  • t
-  • o
-  •  
-  • T
-  • e
-  • r
-  • r
-  • i
-  • t
-  • o
-  • r
-  • i
-  • a
-  • l
-  •  
-  • y
-  •  
-  • e
-  • s
-  • p
-  • e
-  • c
-  • i
-  • a
-  • l
-  • i
-  • s
-  • t
-  • a
-  •  
-  • e
-  • n
-  •  
-  • s
-  • i
-  • s
-  • t
-  • e
-  • m
-  • a
-  • s
-  •  
-  • d
-  • e
-  •  
-  • d
-  • a
-  • t
-  • o
-  • s
-  • .
-
-- **Requisitos Críticos a Subsanar / Asegurar en la Oferta:**
-  • •
-  •  
-  • F
-  • a
-  • l
-  • t
-  • a
-  •  
-  • e
-  • n
-  •  
-  • n
-  • ó
-  • m
-  • i
-  • n
-  • a
-  •  
-  • i
-  • n
-  • t
-  • e
-  • r
-  • n
-  • a
-  •  
-  • d
-  • e
-  •  
-  • p
-  • e
-  • r
-  • f
-  • i
-  • l
-  • e
-  • s
-  •  
-  • t
-  • é
-  • c
-  • n
-  • i
-  • c
-  • o
-  • s
-  •  
-  • c
-  • o
-  • m
-  • p
-  • l
-  • e
-  • m
-  • e
-  • n
-  • t
-  • a
-  • r
-  • i
-  • o
-  • s
-  •  
-  • e
-  • x
-  • i
-  • g
-  • i
-  • d
-  • o
-  • s
-  •  
-  • p
-  • o
-  • r
-  •  
-  • L
-  • O
-  • O
-  • T
-  • U
-  • G
-  • S
-  • :
-  •  
-  • E
-  • s
-  • p
-  • e
-  • c
-  • i
-  • a
-  • l
-  • i
-  • s
-  • t
-  • a
-  •  
-  • A
-  • m
-  • b
-  • i
-  • e
-  • n
-  • t
-  • a
-  • l
-  • /
-  • B
-  • i
-  • o
-  • f
-  • í
-  • s
-  • i
-  • c
-  • o
   • ,
   •  
-  • U
+  • C
+  • h
+  • a
+  • g
+  • u
+  • a
   • r
+  • p
+  • a
+  • m
   • b
   • a
-  • n
-  • i
-  • s
-  • t
-  • a
-  •  
-  • y
-  •  
-  • S
-  • o
-  • c
-  • i
-  • ó
-  • l
-  • o
-  • g
-  • o
-  • .
-  • 
-
-  • •
-  •  
-  • P
-  • r
-  • e
-  • s
-  • u
-  • p
-  • u
-  • e
-  • s
-  • t
-  • o
-  •  
-  • r
-  • e
-  • f
-  • e
-  • r
-  • e
-  • n
-  • c
-  • i
-  • a
-  • l
   •  
   • (
   • $
-  • 7
+  • 6
+  • 8
+  • .
   • 2
+  • k
+  • )
+  • ,
+  •  
+  • P
+  • a
+  • q
+  • u
+  • i
+  • s
+  • h
+  • a
+  •  
+  • (
+  • $
+  • 5
+  • 3
   • .
   • 5
   • k
   • )
+  • ,
   •  
+  • M
+  • a
+  • c
+  • a
+  • r
+  • á
+  •  
+  • (
+  • $
+  • 4
+  • 1
+  • .
+  • 5
+  • k
+  • )
+  • .
+  • 
+
+  • •
+  •  
+  • D
+  • i
   • r
   • e
-  • s
+  • c
+  • c
+  • i
+  • ó
+  • n
+  •  
   • t
-  • r
+  • é
+  • c
+  • n
   • i
   • c
-  • t
+  • a
+  • :
+  •  
+  • J
+  • o
+  • s
+  • é
+  •  
+  • V
   • i
-  • v
+  • c
+  • e
+  • n
+  • t
+  • e
+  •  
+  • O
+  • r
+  • d
+  • ó
+  • ñ
+  • e
+  • z
+  •  
+  • c
+  • u
+  • m
+  • p
+  • l
+  • e
+  •  
+  • 4
+  • t
   • o
   •  
-  • p
-  • a
+  • n
+  • i
+  • v
+  • e
+  • l
+  •  
+  • y
+  •  
+  • d
+  • i
+  • r
+  • e
+  • c
+  • c
+  • i
+  • ó
+  • n
+  •  
+  • d
+  • e
+  • m
+  • o
+  • s
+  • t
   • r
   • a
-  •  
-  • e
-  • l
-  •  
+  • d
   • a
-  • l
-  • c
-  • a
+  • .
+
+- **Requisitos Críticos a Asegurar en la Oferta:**
+  • •
+  •  
+  • C
+  • o
   • n
-  • c
-  • e
-  •  
-  • s
+  • f
   • i
+  • r
   • m
-  • u
-  • l
-  • t
-  • á
+  • a
+  • r
+  •  
+  • d
+  • i
+  • s
+  • p
+  • o
   • n
+  • i
+  • b
+  • i
+  • l
+  • i
+  • d
+  • a
+  • d
+  •  
   • e
+  • n
+  •  
+  • c
+  • a
+  • m
+  • p
   • o
   •  
   • d
   • e
   •  
-  • P
-  • D
-  • O
-  • T
+  • e
+  • s
+  • p
+  • e
+  • c
+  • i
+  • a
+  • l
+  • i
+  • s
+  • t
+  • a
   •  
-  • y
+  • a
+  • m
+  • b
+  • i
+  • e
+  • n
+  • t
+  • a
+  • l
   •  
-  • P
-  • U
-  • G
-  • S
+  • a
+  • s
+  • i
+  • g
+  • n
+  • a
+  • d
+  • o
   • .
 
 ---
 
 ## 🚀 4. TU MISIÓN COMO AGENTE DE IA:
 Actúa como el **Director de Licitaciones y Consultoría de Planning & Solution S.A.**  
-Tu tarea es redactar y estructurar la **Oferta Técnica y Económica Ganadora** dentro de este mismo repositorio:
+Tu tarea es redactar y estructurar la **Oferta Técnica y Económica Ganadora** dentro de este repositorio:
 
 ### Entregables Requeridos:
 1. **`01_METODOLOGIA_TECNICA.md`**:
@@ -575,11 +304,22 @@ Tu tarea es redactar y estructurar la **Oferta Técnica y Económica Ganadora** 
      - *Fase 2:* Formulación del plan con articulación estricta a la normativa LOOTUGS, ODS y directrices de la entidad.
      - *Fase 3:* Modelo de gestión, cartera de proyectos priorizados, cronograma de hitos y presupuesto valorado.
 2. **`02_MATRIZ_EVALUACION_TECNICA.xlsx` o `.md`**:
-   - Detallar la tabla de puntaje (experiencia de la firma, experiencia del personal, plan de trabajo) asegurando 100/100 puntos.
+   - Detallar la tabla de puntaje (experiencia de la firma, experiencia del personal, plan de trabajo) asegurando 100/100 puntos basándote en `knowledge_graph.json`.
 3. **`03_PRESUPUESTO_DESGLOSADO.xlsx` o `.md`**:
    - Tabla de costos directos (honorarios expertos, trabajo de campo, talleres participativos) e indirectos, ajustada exactamente a los $72,500.00 USD.
 4. **`04_FORMULARIOS_COMPROMISO_SERCOP.md`**:
    - Formatos estandarizados de compromiso de personal técnico y equipo asignado.
 
 ---
-*Instrucciones de entrega: Una vez que generes estos archivos, realiza un commit con el mensaje `feat(propuesta): oferta tecnica completa para CPC-GADMC-2026-012` y realiza push a la rama main.*
+
+## 📁 5. FORMALIZACIÓN Y ENTREGA
+Una vez que generes todos los entregables de la propuesta:
+1. Mueve los borradores e instrucciones (`PROMPT_PARA_IA.md`) a una subcarpeta `_insumos/` o elimínalos para dejar el repositorio limpio.
+2. Actualiza el archivo `README.md` para que sea la **Carátula Ejecutiva Formal** de la oferta técnica presentada por Planning & Solution S.A. ante la entidad contratante.
+3. Para hacer push a GitHub sin necesidad de contraseñas, utiliza este enlace autenticado:
+   ```bash
+   git remote set-url origin https://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@github.com/radarps/propuesta_cpc-gadmc-2026-012.git
+   git add .
+   git commit -m "feat(propuesta): oferta tecnica y economica oficial para CPC-GADMC-2026-012"
+   git push origin main
+   ```
